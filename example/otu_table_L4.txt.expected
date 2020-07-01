@@ -1,0 +1,5 @@
+Taxon	PC.634	PC.636	PC.354	PC.481
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales	0.7142857142857142	1.0	0.0	0.0
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales	0.0	0.0	1.0	0.0
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales	0.14285714285714285	0.0	0.0	1.0
+k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales	0.14285714285714285	0.0	0.0	0.0

@@ -1,0 +1,2 @@
+biomfile	plugins/OTUPlot/example/otu_table.biom
+mapping	plugins/OTUPlot/example/Mapping_file_corrected.txt
